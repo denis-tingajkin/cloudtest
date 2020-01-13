@@ -20,17 +20,17 @@ import (
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"
 
-	"github.com/networkservicemesh/cloudtest/pkg/config"
-	"github.com/networkservicemesh/cloudtest/pkg/execmanager"
-	"github.com/networkservicemesh/cloudtest/pkg/k8s"
-	"github.com/networkservicemesh/cloudtest/pkg/model"
-	"github.com/networkservicemesh/cloudtest/pkg/providers"
-	"github.com/networkservicemesh/cloudtest/pkg/providers/packet"
-	"github.com/networkservicemesh/cloudtest/pkg/providers/shell"
-	"github.com/networkservicemesh/cloudtest/pkg/reporting"
-	"github.com/networkservicemesh/cloudtest/pkg/runners"
-	shell_mgr "github.com/networkservicemesh/cloudtest/pkg/shell"
-	"github.com/networkservicemesh/cloudtest/pkg/utils"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/execmanager"
+	"github.com/denis-tingajkin/cloudtest/pkg/k8s"
+	"github.com/denis-tingajkin/cloudtest/pkg/model"
+	"github.com/denis-tingajkin/cloudtest/pkg/providers"
+	"github.com/denis-tingajkin/cloudtest/pkg/providers/packet"
+	"github.com/denis-tingajkin/cloudtest/pkg/providers/shell"
+	"github.com/denis-tingajkin/cloudtest/pkg/reporting"
+	"github.com/denis-tingajkin/cloudtest/pkg/runners"
+	shell_mgr "github.com/denis-tingajkin/cloudtest/pkg/shell"
+	"github.com/denis-tingajkin/cloudtest/pkg/utils"
 )
 
 const (

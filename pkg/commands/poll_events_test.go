@@ -23,13 +23,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/networkservicemesh/cloudtest/pkg/utils"
+	"github.com/denis-tingajkin/cloudtest/pkg/utils"
 
-	"github.com/networkservicemesh/cloudtest/pkg/execmanager"
+	"github.com/denis-tingajkin/cloudtest/pkg/execmanager"
 
-	"github.com/networkservicemesh/cloudtest/pkg/model"
+	"github.com/denis-tingajkin/cloudtest/pkg/model"
 
-	"github.com/networkservicemesh/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
 
 	"github.com/onsi/gomega"
 )

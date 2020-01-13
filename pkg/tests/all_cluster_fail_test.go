@@ -8,9 +8,9 @@ import (
 
 	. "github.com/onsi/gomega"
 
-	"github.com/networkservicemesh/cloudtest/pkg/commands"
-	"github.com/networkservicemesh/cloudtest/pkg/config"
-	"github.com/networkservicemesh/cloudtest/pkg/utils"
+	"github.com/denis-tingajkin/cloudtest/pkg/commands"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/utils"
 )
 
 func TestClusterInstancesFailed(t *testing.T) {

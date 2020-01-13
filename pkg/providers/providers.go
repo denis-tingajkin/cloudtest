@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/networkservicemesh/cloudtest/pkg/config"
-	"github.com/networkservicemesh/cloudtest/pkg/execmanager"
-	"github.com/networkservicemesh/cloudtest/pkg/k8s"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/execmanager"
+	"github.com/denis-tingajkin/cloudtest/pkg/k8s"
 )
 
 // InstanceOptions - instance operation parameters

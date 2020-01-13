@@ -11,9 +11,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/networkservicemesh/cloudtest/pkg/config"
-	"github.com/networkservicemesh/cloudtest/pkg/execmanager"
-	"github.com/networkservicemesh/cloudtest/pkg/utils"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/execmanager"
+	"github.com/denis-tingajkin/cloudtest/pkg/utils"
 )
 
 // Status - Test Execution status

@@ -7,9 +7,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/networkservicemesh/cloudtest/pkg/model"
-	"github.com/networkservicemesh/cloudtest/pkg/shell"
-	"github.com/networkservicemesh/cloudtest/pkg/utils"
+	"github.com/denis-tingajkin/cloudtest/pkg/model"
+	"github.com/denis-tingajkin/cloudtest/pkg/shell"
+	"github.com/denis-tingajkin/cloudtest/pkg/utils"
 )
 
 type goTestRunner struct {

@@ -8,8 +8,8 @@ import (
 	. "github.com/onsi/gomega"
 	"gopkg.in/yaml.v2"
 
-	"github.com/networkservicemesh/cloudtest/pkg/commands"
-	"github.com/networkservicemesh/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/commands"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
 )
 
 func TestClusterConfiguration(t *testing.T) {

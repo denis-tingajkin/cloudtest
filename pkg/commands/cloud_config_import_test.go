@@ -17,7 +17,7 @@
 package commands
 
 import (
-	"github.com/networkservicemesh/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
 	"io/ioutil"
 	"testing"
 
