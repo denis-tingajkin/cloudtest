@@ -9,10 +9,10 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/networkservicemesh/cloudtest/pkg/config"
-	"github.com/networkservicemesh/cloudtest/pkg/execmanager"
-	"github.com/networkservicemesh/cloudtest/pkg/providers"
-	"github.com/networkservicemesh/cloudtest/pkg/utils"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/execmanager"
+	"github.com/denis-tingajkin/cloudtest/pkg/providers"
+	"github.com/denis-tingajkin/cloudtest/pkg/utils"
 )
 
 // Manager - allow to perform shell command executions with variable and parameter substitutions.

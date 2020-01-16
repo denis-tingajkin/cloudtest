@@ -20,7 +20,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/networkservicemesh/cloudtest/pkg/config"
+	"github.com/denis-tingajkin/cloudtest/pkg/config"
 
 	"github.com/onsi/gomega"
 )

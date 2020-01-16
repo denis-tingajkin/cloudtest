@@ -19,7 +19,7 @@ jobs:
 # sanity
   test-sanity-check:
     resource_class: xlarge
-    working_directory: /go/src/github.com/networkservicemesh/cloudtest
+    working_directory: /go/src/github.com/denis-tingajkin/cloudtest
     docker:
       - image: circleci/golang:1.13-stretch
     steps:

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/networkservicemesh/cloudtest/pkg/commands"
+	"github.com/denis-tingajkin/cloudtest/pkg/commands"
 
 	_ "k8s.io/client-go/plugin/pkg/client/auth/gcp" // This is required for GKE authentication to work properly
 )

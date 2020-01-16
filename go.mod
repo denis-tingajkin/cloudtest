@@ -1,4 +1,4 @@
-module github.com/networkservicemesh/cloudtest
+module github.com/denis-tingajkin/cloudtest
 
 go 1.13
 
